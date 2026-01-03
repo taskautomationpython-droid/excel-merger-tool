@@ -1,7 +1,3 @@
-# excel-merger-tool
-Merge multiple Excel files, remove duplicates, and filter data with one click. Desktop application for batch Excel processing.
-
-
 # 📊 Excel Merger & Processor Tool
 
 Merge multiple Excel files, remove duplicates, and filter data with one click. Perfect for batch processing and data consolidation.
